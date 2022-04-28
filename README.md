@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working at [vWise.com](https://www.vwise.com/)
 
-<!-- - 📝 I regularly write articles on ( Turkish ) [https://oguzhanince.medium.com/](https://oguzhanince.medium.com/) -->
-
-- 💬 Ask me about **Fullstack Development**
-
 - 📫 How to reach me **janzel1989@gmail.com**
 
 - 📄 Know about my experiences 
@@ -34,7 +30,6 @@
    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-F71490.svg?logo=graphql&logoColor=white"></img>
    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
    <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img>
-   <img alt="TravisCI" src="https://img.shields.io/badge/TravisCI-f5f1ba.svg?logo=travis&logoColor=white"></img>
 </p>
 
 <h3 align="left">Familarity</h3>
