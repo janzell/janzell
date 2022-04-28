@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [vWise.com](https://www.vwise.com/)
 
-- 📫 How to reach me **janzel1989@gmail.com**
+- 📫 Reach me at **janzel1989@gmail.com**
 
 - 📄 Know about my experiences 
 
